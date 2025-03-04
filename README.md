@@ -3,7 +3,7 @@
 A simple tribute page dedicated to **Liverpool Football Club**, celebrating its legacy, achievements, and impact on the football world.
 
 ## 🚀 Live Demo
-[Click here to view the live project](https://your-live-demo-link.com) *(Replace with your actual link)*
+[Click here to view the live project](https://thabisokgare.github.io/Liverpool-tribute-page/) *()*
 
 ## 📸 Preview
 ![Liverpool FC Tribute Page](https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg)
